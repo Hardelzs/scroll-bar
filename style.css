@@ -90,3 +90,22 @@ img{
   .hide{
     display: none;
   }
+
+  .mk-link {
+    /* position: fixed; */
+    justify-content: baseline;
+    display: flex;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .hardelz {
+    width: 30px;
+    height: 30px;
+    margin-right: 130px;
+  }
+  .press{
+    width: 300px;
+    position: absolute; 
+    margin-left: 40px;
+  }
